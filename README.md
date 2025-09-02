@@ -1,4 +1,5 @@
 # 03_02 Connect Jenkins to GitHub
+[![Build Status](http://localhost:8080/buildStatus/icon?job=parameterized_pipeline)](http://localhost:8080/job/parameterized_pipeline/)
 //change1
 Jenkins can retrieve pipeline configurations from version control systems like GitHub.  In turn, GitHub can connect send webhooks to Jenkins that trigger jobs when a change is pushed to a repo.
 
