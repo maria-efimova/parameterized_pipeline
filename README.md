@@ -1,6 +1,6 @@
 # 03_02 Connect Jenkins to GitHub
-[![Build Status](http://localhost:8080/buildStatus/icon?job=parameterized_pipeline)](http://localhost:8080/job/parameterized_pipeline/)
-//change1
+[![Build Status](https://51fde428657a.ngrok-free.app/buildStatus/icon?job=parameterized_pipeline)](https://51fde428657a.ngrok-free.app/job/parameterized_pipeline/)
+
 Jenkins can retrieve pipeline configurations from version control systems like GitHub.  In turn, GitHub can connect send webhooks to Jenkins that trigger jobs when a change is pushed to a repo.
 
 To demonstrate connecting Jenkins and GitHub, the following need to be in place:
